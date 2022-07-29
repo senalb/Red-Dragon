@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is SENAL BOT🔥
 My Creator is Senal Boy😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94750320813'] //Owner number in aive msg
-global.premium = ['94750320813'] //Owner Number info
-global.ownernomer = '94750320813' //Owner Number <<<
+global.owner = ['+94769872326'] //Owner number in aive msg
+global.premium = ['94769872326'] //Owner Number info
+global.ownernomer = '94769872326' //Owner Number <<<
 
 global.ownername = '😎senal Boy' //Owner Name
 global.botname = ' ☬SENAL༒BOT࿐' //Bot Name
@@ -32,7 +32,7 @@ global.botname = ' ☬SENAL༒BOT࿐' //Bot Name
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://https://github.com/senal113' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'Rathnapura,Ehaliyagoda,hewainna' //Country Region
 
 global.packname = '☬SENAL༒BOT࿐' //Bot Pacage Name
 global.author = '😎Senal.BOY❯❯' //Author Name
